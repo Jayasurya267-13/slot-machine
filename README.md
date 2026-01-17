@@ -37,6 +37,7 @@ A	2	5
 B	4	4
 C	6	3
 D	8	2
+
 🧠 Logic Overview
 
 deposit() – Handles user deposit input
