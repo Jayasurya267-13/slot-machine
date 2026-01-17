@@ -32,10 +32,15 @@ A frequency (how often it appears)
 A value (how much it pays)
 
 Symbols & Values
+
 Symbol	Count	Value
+
 A	2	5
+
 B	4	4
+
 C	6	3
+
 D	8	2
 
 🧠 Logic Overview
@@ -78,11 +83,16 @@ Run the program:
 python slot_machine.py
 
 🧪 Example Output
+
 A | B | C
+
 D | D | D
+
 C | B | A
 
+
 You won $6.
+
 You won on lines: 2
 
 🚀 Future Improvements (Optional Ideas)
@@ -102,4 +112,5 @@ This project is open-source and free to use for learning and personal projects.
 👨‍💻 Author
 
 Jayasurya R
+
 Python Learning Project
